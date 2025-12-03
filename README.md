@@ -29,7 +29,7 @@ Extract the project archive to your desired directory or clone the repository.
 ### Step 2: Download RBA Dataset from Kaggle
 
 #### Method 1: Direct Download via Web Browser
-1. Visit the Kaggle RBA Dataset page: https://www.kaggle.com/datasets/whenamancodes/fraud-detection
+1. Visit the Kaggle RBA Dataset page: https://www.kaggle.com/datasets/dasgroup/rba-dataset
 2. Create a Kaggle account if you do not have one
 3. Click the "Download" button to download the dataset archive
 4. Extract the downloaded archive and locate the file named "rba-dataset.csv"
@@ -262,5 +262,6 @@ The implementation follows established cybersecurity frameworks and standards:
 ## Support and Documentation
 
 For detailed technical information, refer to the inline code documentation and comments within each module. The system generates comprehensive logs during execution that can assist with troubleshooting and performance optimization.
+
 
 This project demonstrates practical application of advanced machine learning techniques to real-world cybersecurity challenges, providing a foundation for enterprise-scale authentication anomaly detection systems.
